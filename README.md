@@ -1,4 +1,4 @@
-#Live : https://netflix-clone-b32f0.web.app/
+Live : https://netflix-clone-b32f0.web.app/
 
 # Getting Started with Create React App
 
